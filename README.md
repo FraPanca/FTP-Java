@@ -9,7 +9,7 @@ Un File Transfer Protocol sviluppato in Java.
 
 ### Istruzioni
 - Compilazione dalla cartella `src`:
-  $ javac -cp . server/Server.java client/Client.java
+  - $ javac -cp . server/Server.java client/Client.java
 
 - Esecuzione dalla cartella `src`:
   - $ java -cp . server/Server portServer
@@ -26,7 +26,7 @@ A File Transfer Protocol based on Java.
 
 ### Instructions
 - Compile from the `src` folder:
-  $ javac -cp . server/Server.java client/Client.java
+  - $ javac -cp . server/Server.java client/Client.java
 
 - Run from the `src` folder:
   - $ java -cp . server/Server portServer
