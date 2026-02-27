@@ -12,8 +12,8 @@ Un File Transfer Protocol sviluppato in Java.
   $ javac -cp . server/Server.java client/Client.java
 
 - Esecuzione dalla cartella `src`:
-  $ java -cp . server/Server portServer
-  $ java -cp . client/Client IPAddressServer portServer
+  - $ java -cp . server/Server portServer
+  - $ java -cp . client/Client IPAddressServer portServer
 
 ---
 
@@ -29,5 +29,5 @@ A File Transfer Protocol based on Java.
   $ javac -cp . server/Server.java client/Client.java
 
 - Run from the `src` folder:
-  $ java -cp . server/Server portServer
-  $ java -cp . client/Client IPAddressServer portServer
+  - $ java -cp . server/Server portServer
+  - $ java -cp . client/Client IPAddressServer portServer
